@@ -28,7 +28,7 @@ File Structure
   
     |- train_classifier.py  python script to train the classifier
 
-    |- classifier.pkl  saved model
+    |- classifier.pkl  saved model (because of size, it zipped. Needs to be extracted.)
   
   
   •	Preparation
